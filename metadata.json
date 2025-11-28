@@ -1,0 +1,7 @@
+{
+  "name": "阿猫阿春专属造型师",
+  "description": "由 Gemini 驱动的智能虚拟试衣间和时尚助手。上传照片或使用摄像头试穿服装，获取时尚建议，并展示不同的场景效果。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
